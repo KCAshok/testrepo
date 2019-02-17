@@ -1,0 +1,18 @@
+{
+  "configs": [
+    "setpayload.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "setpayload",
+  "minMuleVersion": "4.1.2",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {}
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}
